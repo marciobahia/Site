@@ -161,7 +161,7 @@ img {
     width: 100%;
     float: left;
     padding: 3% 4%;
-      
+          
 }
 .servico {
     width: 100%;
@@ -169,6 +169,7 @@ img {
     text-align: left;
     border-radius: 7px;
     margin-bottom: 3%;
+    
 }
 .servico img{
     border-radius: 7px 7px 0 0;
@@ -186,13 +187,14 @@ img {
 }
 .inner h4{
     font-size: 1.2em;
-    color:#130400;
+    color: black;
     margin-top: 2%;
+    
 }
 
 .inner p {
     margin-top: 3%;
-    color:#130400;
+    color:black;
     line-height: 1.5em;
 }
 
